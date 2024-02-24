@@ -1,9 +1,9 @@
 <!-- Typing SVG -->
-<h1 align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&weight=400&size=30&pause=200&color=A66BFF&center=true&vCenter=true&random=false&width=500&lines=hey+there%2C+fellow+coder!⭐;i+am,+Chania+Reese+Roque♋️;an+IT-WMA+Undergraduate👩🏻‍💻" alt="Typing SVG">
   </a>
-</h1>
+</p>
 
 <!-- About Me Section -->
 <h2>
