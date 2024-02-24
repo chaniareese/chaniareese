@@ -33,7 +33,9 @@
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=323232"> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23232F3E"> <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white"> <img src="https://img.shields.io/badge/Photoshop-%2300679B.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaniareese&layout=compact)
+<div style="background-color: #f0f0f0; text-align: center; padding: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaniareese&layout=compact" alt="Top Languages" style="width: 50%;">
+</div>
 
 <!-- Contact -->
 <h2>
