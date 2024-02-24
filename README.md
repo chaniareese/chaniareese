@@ -1,12 +1,12 @@
-![desktop (10)](https://github.com/chaniareese/chaniareese/blob/main/assets/150255020/21b17528-c8a0-401b-a2a0-f97cf1b67db7.jpg)
+![HEADER](https://github.com/chaniareese/chaniareese/assets/150255020/35029b6b-29dd-44bf-8fb8-d08d10fb991a)
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&weight=400&size=30&pause=1000&color=C0AAEC&center=true&vCenter=true&random=false&width=500&lines=hey+there%2C+fellow+coder!;i'm+Chania,+an+IT-WMA+student" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&weight=400&size=30&pause=1000&color=C0AAEC&center=true&vCenter=true&random=false&width=500&lines=hey+there%2C+fellow+coder!;i+am,+Chania+Reese+Roque" alt="Typing SVG">
   </a>
-</p>
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+</p>  
+
 <!-- About Me Section -->
 ## a little more about me... 
 <p style="font-size: 16px; color: #413D63;">
