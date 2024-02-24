@@ -11,7 +11,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&duration=3000&pause=3000&color=A66BFF&repeat=false&random=false&width=435&lines=a+little+more+about+me..." alt="Typing SVG">
   </a>
 </h2>
-<p style="font-size: 16px;">
+<p style="font-size: 22px;">
   🫐 I am currently pursuing my studies at FEU Institute of Technology.
   <br/>
   🔭 Fun fact: I was afraid of using computers when I was younger!
