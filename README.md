@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=323232"> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23232F3E"> <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white"> <img src="https://img.shields.io/badge/Photoshop-%2300679B.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
 </p>
 
-<div style="text-align: center; background-color: #000000; border: 2px solid #A66BFF; border-radius: 8px; overflow: hidden; max-width: 200px; margin: 0 auto;">
+<div style="text-align: center; background-color: #000000; border: 2px solid #A66BFF; border-radius: 8px; overflow: hidden; max-width: 50%; margin: 0 auto;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaniareese&layout=compact&bg_color=000000&title_color=A66BFF&text_color=A66BFF&icon_color=A66BFF&border_color=A66BFF" alt="Top Languages" style="width: 100%;">
 </div>
 
