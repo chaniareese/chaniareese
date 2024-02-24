@@ -16,7 +16,7 @@
   <br/>
   🔭 Fun fact: I was afraid of using computers when I was younger!
   <br/>
-  📷 You can check out my [Portfolio](https://eugenebadato.vercel.app/) for more information.
+  📷 You can check out my [Portfolio](https://chania.roque/) for more information.
   
   <!-- Profile Views -->
   <p align="left" style="font-size: 14px; color: #413D63;"> <img src="https://komarev.com/ghpvc/?username=chaniareese&label=Profile%20views&color=A66BFF&style=flat" alt="chaniareese" />
