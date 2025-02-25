@@ -14,8 +14,6 @@
 <p style="font-size: 22px;">
   🫐 I am currently pursuing my studies at FEU Institute of Technology.
   <br/>
-  🔭 Fun fact: I was afraid of using computers when I was younger!
-  <br/>
   📷 You can check out my [Portfolio](https://chaniareese.github.io/LANDING-PAGE-AWD-FEUTECH/) for more information.
   
   <!-- Profile Views -->
