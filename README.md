@@ -1,57 +1,52 @@
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&weight=400&size=30&pause=200&color=A66BFF&center=true&vCenter=true&random=false&width=500&lines=hey+there%2C+fellow+coder!⭐;i+am,+Chania+Reese+Roque♋️;an+IT-WMA+Undergraduate👩🏻‍💻" alt="Typing SVG">
-  </a>
-</p>
+<!-- GitHub README Profile for Chania Reese Roque -->
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap" rel="stylesheet">
 
-<!-- About Me Section -->
-<h2>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&duration=3000&pause=3000&color=A66BFF&repeat=false&random=false&width=435&lines=a+little+more+about+me..." alt="Typing SVG">
-  </a>
-</h2>
-<p style="font-size: 22px;">
-  🫐 I am currently pursuing my studies at FEU Institute of Technology.
-  <br/>
-  📷 You can check out my [Portfolio](https://chaniareese.github.io/LANDING-PAGE-AWD-FEUTECH/) for more information.
-  
-  <!-- Profile Views -->
-  <p align="left" style="font-size: 14px; color: #413D63;"> <img src="https://komarev.com/ghpvc/?username=chaniareese&label=Profile%20views&color=A66BFF&style=flat" alt="chaniareese" />
+<div style="font-family: 'Be Vietnam Pro', sans-serif; background-color:#0E0E11; color:white; padding:40px; border-radius:16px; max-width:750px; margin:auto; text-align:left;">
+
+  <h3 style="color:#CFCFCF; font-weight:600; letter-spacing:2px; margin:0;">HELLO!</h3>
+
+  <h1 style="font-size:34px; font-weight:800; margin-top:10px; margin-bottom:16px; color:#A277FF;">
+    I’m Chania Reese Roque
+  </h1>
+
+  <p style="max-width:650px; line-height:1.7; font-size:15.5px; color:#DADADA; margin-top:10px; margin-bottom:20px;">
+    I’m an undergraduate IT student specializing in Web and Mobile Applications and an aspiring product designer passionate about connecting design and technology to create experiences that are both functional and visually engaging.
   </p>
-</p>
 
-<!-- Frameworks & Languages Section -->
-<h2>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&duration=3000&pause=3000&color=A66BFF&repeat=false&random=false&width=435&lines=my+skill+set" alt="Typing SVG">
-  </a>
-</h2>
-<p align="center">
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=323232"> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23232F3E"> <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white"> <img src="https://img.shields.io/badge/Photoshop-%2300679B.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
-</p>
+  <div style="font-size:15px; color:#DADADA; margin-top:25px;">
+    <div style="margin-bottom:10px;">
+      <img src="assets/bullet.gif" alt="bullet" width="18" style="vertical-align:middle; margin-right:8px;">
+      Studying at FEU Institute of Technology
+    </div>
+    <div style="margin-bottom:10px;">
+      <img src="assets/bullet.gif" alt="bullet" width="18" style="vertical-align:middle; margin-right:8px;">
+      Interested in UI/UX, Product Design, and Front-End Development
+    </div>
+    <div>
+      <img src="assets/bullet.gif" alt="bullet" width="18" style="vertical-align:middle; margin-right:8px;">
+      Check out my Portfolio at
+      <a href="https://chaniareese.github.io/LANDING-PAGE-AWD-FEUTECH/" target="_blank" 
+         style="color:#A277FF; font-style:italic; font-weight:500; text-decoration:none;">
+         ChaniaRoque
+      </a>
+    </div>
+  </div>
 
-<div style="text-align: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=chaniareese&layout=compact&bg_color=000000&title_color=A66BFF&text_color=A66BFF&icon_color=A66BFF&border_color=A66BFF" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaniareese&layout=compact&bg_color=000000&title_color=A66BFF&text_color=A66BFF&icon_color=A66BFF&border_color=A66BFF" />
-  </a>
+  <h3 style="color:#CFCFCF; font-weight:600; margin-top:40px; letter-spacing:1px;">CONNECT WITH ME!</h3>
+
+  <div style="display:flex; flex-wrap:wrap; gap:12px; margin-top:12px;">
+    <a href="https://www.linkedin.com/in/chaniareese/" target="_blank" style="text-decoration:none;">
+      <img src="assets/linkedin.png" alt="LinkedIn" width="120" style="border-radius:12px; border:none;">
+    </a>
+    <a href="mailto:your-email@gmail.com" style="text-decoration:none;">
+      <img src="assets/gmail.png" alt="Gmail" width="120" style="border-radius:12px; border:none;">
+    </a>
+    <a href="https://www.behance.net/chaniareese" target="_blank" style="text-decoration:none;">
+      <img src="assets/behance.png" alt="Behance" width="120" style="border-radius:12px; border:none;">
+    </a>
+    <a href="https://www.instagram.com/chaniareese/" target="_blank" style="text-decoration:none;">
+      <img src="assets/instagram.png" alt="Instagram" width="120" style="border-radius:12px; border:none;">
+    </a>
+  </div>
+
 </div>
-
-
-<!-- Contact -->
-<h2>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&duration=3000&pause=3000&color=A66BFF&repeat=false&random=false&width=435&lines=connect+with+me" alt="Typing SVG">
-  </a>
-</h2>
-<div align="center">
-    <a href="https://github.com/chaniareese" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" /></a>
-    <a href="https://www.linkedin.com/in/chaniareese/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" /></a>
-    <a href="https://www.facebook.com/chaniareesefernandez.roque/" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin-bottom: 5px;" /></a>
-    <a href="https://www.instagram.com/chaniareese/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" /></a>
-    <!-- Replace "your_twitter_username" with your actual Twitter username -->
-    <a href
-
