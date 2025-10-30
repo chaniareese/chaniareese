@@ -36,16 +36,16 @@
 
   <div style="display:flex; flex-wrap:wrap; gap:12px; margin-top:12px;">
     <a href="https://www.linkedin.com/in/chaniareese/" target="_blank" style="text-decoration:none;">
-      <img src="assets/linkedin.png" alt="LinkedIn" width="120" style="border-radius:12px; border:none;">
+      <img src="assets/linkedin-new.png" alt="LinkedIn" width="120" style="border-radius:12px; border:none;">
     </a>
     <a href="mailto:your-email@gmail.com" style="text-decoration:none;">
-      <img src="assets/gmail.png" alt="Gmail" width="120" style="border-radius:12px; border:none;">
+      <img src="assets/gmail-new.png" alt="Gmail" width="120" style="border-radius:12px; border:none;">
     </a>
     <a href="https://www.behance.net/chaniareese" target="_blank" style="text-decoration:none;">
-      <img src="assets/behance.png" alt="Behance" width="120" style="border-radius:12px; border:none;">
+      <img src="assets/behance-new.png" alt="Behance" width="120" style="border-radius:12px; border:none;">
     </a>
     <a href="https://www.instagram.com/chaniareese/" target="_blank" style="text-decoration:none;">
-      <img src="assets/instagram.png" alt="Instagram" width="120" style="border-radius:12px; border:none;">
+      <img src="assets/instagram-new.png" alt="Instagram" width="120" style="border-radius:12px; border:none;">
     </a>
   </div>
 
