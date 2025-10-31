@@ -36,7 +36,7 @@
     <a href="mailto:chania.roque@gmail.com" style="text-decoration:none;">
       <img src="assets/gmail-new.png" alt="Gmail" width="140" style="border-radius:12px; border:none;">
     </a>
-    <a href="https://www.behance.net/chaniareese" target="_blank" style="text-decoration:none;">
+    <a href="https://www.behance.net/chaniaroque" target="_blank" style="text-decoration:none;">
       <img src="assets/behance-new.png" alt="Behance" width="140" style="border-radius:12px; border:none;">
     </a>
     <a href="https://www.instagram.com/chaniareese/" target="_blank" style="text-decoration:none;">
