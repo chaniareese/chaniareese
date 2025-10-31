@@ -20,7 +20,7 @@
     <div>
       <img src="assets/bullet.gif" alt="bullet" width="12" style="vertical-align:middle; margin-right:8px;">
       Check out my Portfolio at
-      <a href="https://chaniareese.github.io/LANDING-PAGE-AWD-FEUTECH/" target="_blank" 
+      <a href="-" target="_blank" 
          style="color:#A277FF; font-style:italic; font-weight:500; text-decoration:none;">
          NayaDesigns
       </a>
