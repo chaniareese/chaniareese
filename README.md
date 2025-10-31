@@ -3,7 +3,8 @@
 
 <h3 style="color:#CFCFCF; font-weight:600; letter-spacing:2px; margin-bottom:0;">HELLO!</h3>
 <div>
-  <img src="assets/bullet.gif" alt="I'm Chania Reese Roque" width="12" style="vertical-align:middle; margin-right:8px;">
+  <b style="font-weight:1000; font-size:42px;"> I'M </b>
+  <img src="assets/myname-new.gif" alt="I'm Chania Reese Roque" width="220" style="vertical-align:middle; margin-right:8px;">
 </div>
 
   <p style="max-width:650px; line-height:1.7; font-size:15.5px; color:#DADADA; margin-top:10px; margin-bottom:20px;">
