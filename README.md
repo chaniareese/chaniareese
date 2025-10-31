@@ -1,11 +1,8 @@
 <!-- GitHub README Profile for Chania Reese Roque -->
 <div style="font-family: 'Be Vietnam Pro', sans-serif; background-color:#0E0E11; color:white; padding:40px; border-radius:16px; max-width:750px; margin:auto; text-align:left;">
 
-<h3 style="color:#CFCFCF; font-weight:600; letter-spacing:2px; margin-bottom:0;">HELLO!</h3>
-<div>
-  <b style="font-weight:1000; font-size:42px;"> I'M </b>
-  <img src="assets/myname-new.gif" alt="I'm Chania Reese Roque" width="220" style="vertical-align:middle; margin-right:8px;">
-</div>
+<h3 style="color:#CFCFCF; font-weight:600; letter-spacing:2px; margin-bottom:12px;">HELLO!</h3>
+<h1 style="margin-top:0;">I'M <img src="assets/myname-new1.gif" alt="I'm Chania Reese Roque" width="340"></h1>
 
   <p style="max-width:650px; line-height:1.7; font-size:15.5px; color:#DADADA; margin-top:10px; margin-bottom:20px;">
     I’m an <b style="font-weight:1000;">undergraduate IT student specializing in Web and Mobile Applications and an aspiring product designer</b> passionate about connecting design and technology to create experiences that are both functional and visually engaging.
