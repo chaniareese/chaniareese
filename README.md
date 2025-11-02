@@ -22,7 +22,7 @@
       Check out my Portfolio at
       <a href="-" target="_blank" 
          style="color:#A277FF; font-style:italic; font-weight:500; text-decoration:none;">
-         NayaDesigns
+         ChaniaRoquePortfolio
       </a>
     </div>
   </div>
