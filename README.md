@@ -1,4 +1,4 @@
-<!-- GitHub README Profile for Chania Reese Roque -->
+<!--<!-- GitHub README Profile for Chania Reese Roque -->
 <div style="font-family: 'Be Vietnam Pro', sans-serif; background-color:#0E0E11; color:white; padding:40px; border-radius:16px; max-width:750px; margin:auto; text-align:left;">
 
 <h3 style="color:#CFCFCF; font-weight:600; letter-spacing:2px; margin-bottom:12px;">HELLO!</h3>
@@ -45,3 +45,4 @@
   </div>
 
 </div>
+-->
